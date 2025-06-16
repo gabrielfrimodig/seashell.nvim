@@ -37,7 +37,7 @@ A dark-themed Neovim colorscheme inspired by the muted, ocean-shell hues of your
 
 ## Screenshot
 
-Todo
+![Python example](docs/assets/python-example.png)
 
 
 ## Installation
